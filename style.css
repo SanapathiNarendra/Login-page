@@ -20,11 +20,13 @@
         }
         
         .login{
+            background-color: black;
+            color:beige;
             margin:30px;
             padding:10px;
             border-radius: 4px;
         }
-  .Nature{
+        .Nature{
             background-color: rgb(22, 252, 79);
             margin-left: 40px;
             margin-top: 50px;
