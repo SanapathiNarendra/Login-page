@@ -1,0 +1,22 @@
+
+.Nature{
+    background-color: rgb(236, 236, 27);
+    padding:4px;
+    border:6px;
+    margin:5px;
+}
+
+.sports{
+    background-color: red;
+    padding: 6px;
+    border: 4px;
+    margin: 6px;
+
+}
+
+.college{
+    background-color: rgb(105, 15, 189);
+    padding:5px;
+    border:6px;
+    margin:5px;
+}
